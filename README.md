@@ -37,11 +37,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SihanTeng&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SihanTeng&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SihanTeng&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SihanTeng&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SihanTeng&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SihanTeng&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -52,19 +52,19 @@
 <div align="center">
 
 <a href="https://github.com/SihanTeng/croc-gui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SihanTeng&repo=croc-gui&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SihanTeng&repo=croc-gui&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/SihanTeng/kk-s-linux-ricing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SihanTeng&repo=kk-s-linux-ricing&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SihanTeng&repo=kk-s-linux-ricing&theme=tokyonight&hide_border=true" />
 </a>
 
 <br />
 
 <a href="https://github.com/SihanTeng/TokenTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SihanTeng&repo=TokenTracker&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SihanTeng&repo=TokenTracker&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 <a href="https://github.com/SihanTeng/UotanToolboxNT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SihanTeng&repo=UotanToolboxNT&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SihanTeng&repo=UotanToolboxNT&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 
 </div>
