@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Sihan+Teng;%F0%9F%8E%BC+Software+Developer;%F0%9F%90%A7+Linux+Enthusiast;%F0%9F%9A%80+Building+Cool+Stuff" alt="Typing SVG" />
 
-
 </div>
 
 ---
@@ -36,11 +35,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=SihanTeng&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=SihanTeng&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SihanTeng&theme=tokyonight&hide_border=true)
+![Commit Streak](https://streak-stats.demolab.com/?user=SihanTeng&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -50,21 +45,11 @@
 
 <div align="center">
 
-<a href="https://github.com/SihanTeng/croc-gui">
-  <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=SihanTeng&repo=croc-gui&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SihanTeng/kk-s-linux-ricing">
-  <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=SihanTeng&repo=kk-s-linux-ricing&theme=tokyonight&hide_border=true" />
-</a>
+[![croc-gui](https://img.shields.io/badge/croc--gui-GUI_for_croc-00ADD8?style=for-the-badge&logo=go)](https://github.com/SihanTeng/croc-gui)
+[![kk-s-linux-ricing](https://img.shields.io/badge/kk--s--linux--ricing-Arch_Ricing_dotfiles-4EAA25?style=for-the-badge&logo=arch-linux)](https://github.com/SihanTeng/kk-s-linux-ricing)
 
-<br />
-
-<a href="https://github.com/SihanTeng/TokenTracker">
-  <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=SihanTeng&repo=TokenTracker&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
-<a href="https://github.com/SihanTeng/UotanToolboxNT">
-  <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=SihanTeng&repo=UotanToolboxNT&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
+[![TokenTracker](https://img.shields.io/badge/TokenTracker-AI_token_cost_tracker-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/SihanTeng/TokenTracker)
+[![UotanToolboxNT](https://img.shields.io/badge/UotanToolboxNT-Android_toolbox-512BD4?style=for-the-badge&logo=android)](https://github.com/SihanTeng/UotanToolboxNT)
 
 </div>
 
@@ -72,15 +57,11 @@
 
 ### 📌 What I'm Into
 
-<div align="center">
-
 | 🎧 Music & Audio | 🐧 Linux | 🛠️ Dev Tools |
 |:---:|:---:|:---:|
 | Spicetify | Arch Ricing | CLI Utilities |
 | Spotube | Shell Scripting | Cross-platform Apps |
 | librespot | Dotfiles | Go Backends |
-
-</div>
 
 ---
 
