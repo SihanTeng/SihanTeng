@@ -42,8 +42,8 @@
 [![croc-gui](https://img.shields.io/badge/croc--gui-GUI_for_croc-00ADD8?style=for-the-badge&logo=go)](https://github.com/SihanTeng/croc-gui)
 [![kk-s-linux-ricing](https://img.shields.io/badge/kk--s--linux--ricing-Arch_Ricing_dotfiles-4EAA25?style=for-the-badge&logo=arch-linux)](https://github.com/SihanTeng/kk-s-linux-ricing)
 
-[![TokenTracker](https://img.shields.io/badge/TokenTracker-AI_token_cost_tracker-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/SihanTeng/TokenTracker)
-[![UotanToolboxNT](https://img.shields.io/badge/UotanToolboxNT-Android_toolbox-512BD4?style=for-the-badge&logo=android)](https://github.com/SihanTeng/UotanToolboxNT)
+[![llm-translator](https://img.shields.io/badge/llm--translator-LLM_Translator-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/SihanTeng/llm-translator)
+[![md](https://img.shields.io/badge/md-Markdown_Tool-3178C6?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/SihanTeng/md)
 
 </div>
 
