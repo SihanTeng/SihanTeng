@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Sihan+Teng;%F0%9F%8E%BC+Software+Developer;%F0%9F%90%A7+Linux+Enthusiast;%F0%9F%9A%80+Building+Cool+Stuff" alt="Typing SVG" />
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSihanTeng&countColor=%237c3aed&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSihanTeng)
 
 </div>
 
@@ -37,9 +36,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SihanTeng&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=SihanTeng&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SihanTeng&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=SihanTeng&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SihanTeng&theme=tokyonight&hide_border=true)
 
@@ -52,19 +51,19 @@
 <div align="center">
 
 <a href="https://github.com/SihanTeng/croc-gui">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SihanTeng&repo=croc-gui&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=SihanTeng&repo=croc-gui&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/SihanTeng/kk-s-linux-ricing">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SihanTeng&repo=kk-s-linux-ricing&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=SihanTeng&repo=kk-s-linux-ricing&theme=tokyonight&hide_border=true" />
 </a>
 
 <br />
 
 <a href="https://github.com/SihanTeng/TokenTracker">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SihanTeng&repo=TokenTracker&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=SihanTeng&repo=TokenTracker&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 <a href="https://github.com/SihanTeng/UotanToolboxNT">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SihanTeng&repo=UotanToolboxNT&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=SihanTeng&repo=UotanToolboxNT&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 
 </div>
