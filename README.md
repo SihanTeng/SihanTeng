@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Think%20like%20a%20man%20of%20action%3B%20act%20like%20a%20man%20of%20thought.&author=Henri%20Bergson)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Purity%20and%20impurity%20depend%20on%20oneself%3B%20no%20one%20can%20purify%20another.&author=The%20Buddha
 
 </div>
 
