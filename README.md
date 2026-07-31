@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Purity%20and%20impurity%20depend%20on%20oneself%3B%20no%20one%20can%20purify%20another.&author=The%20Buddha
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20can%20stand%20tall%20without%20standing%20on%20someone.%20You%20can%20be%20a%20victor%20without%20having%20victims.&author=Harriet%20Woods
 
 </div>
 
