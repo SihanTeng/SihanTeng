@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20there%20is%20no%20struggle%2C%20there%20is%20no%20progress.&author=Frederick%20Douglass
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=What%20we%20see%20depends%20mainly%20on%20what%20we%20look%20for.&author=John%20Lubbock
 
 </div>
 
