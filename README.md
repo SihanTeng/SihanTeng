@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=What%20we%20see%20depends%20mainly%20on%20what%20we%20look%20for.&author=John%20Lubbock
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Whoever%20is%20happy%20will%20make%20others%20happy%2C%20too.&author=Mark%20Twain
 
 </div>
 
