@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Whoever%20is%20happy%20will%20make%20others%20happy%2C%20too.&author=Mark%20Twain
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Before%20you%20put%20on%20a%20frown%2C%20make%20absolutely%20sure%20there%20are%20no%20smiles%20available.&author=James%20M.%20Beggs
 
 </div>
 
