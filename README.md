@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Decision%20is%20a%20risk%20rooted%20in%20the%20courage%20of%20being%20free.&author=Paul%20Tillich
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20and%20most%20beautiful%20things%20in%20the%20world%20cannot%20be%20seen%2C%20nor%20touched...%20but%20are%20felt%20in%20the%20heart.&author=Helen%20Keller
 
 </div>
 
