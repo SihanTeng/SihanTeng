@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20and%20most%20beautiful%20things%20in%20the%20world%20cannot%20be%20seen%2C%20nor%20touched...%20but%20are%20felt%20in%20the%20heart.&author=Helen%20Keller
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20must%20learn%20our%20limits.%20We%20are%20all%20something%2C%20but%20none%20of%20us%20are%20everything.&author=Blaise%20Pascal
 
 </div>
 
