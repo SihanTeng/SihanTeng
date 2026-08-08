@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20must%20learn%20our%20limits.%20We%20are%20all%20something%2C%20but%20none%20of%20us%20are%20everything.&author=Blaise%20Pascal
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Never%20mistake%20motion%20for%20action.&author=Ernest%20Hemingway
 
 </div>
 
