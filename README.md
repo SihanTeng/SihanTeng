@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Never%20mistake%20motion%20for%20action.&author=Ernest%20Hemingway
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20know%20not%20age%2C%20nor%20weariness%20nor%20defeat.&author=Rose%20Kennedy
 
 </div>
 
