@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20know%20not%20age%2C%20nor%20weariness%20nor%20defeat.&author=Rose%20Kennedy
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=All%20things%20change%3B%20nothing%20perishes.&author=Ovid
 
 </div>
 
