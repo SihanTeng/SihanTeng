@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=All%20things%20change%3B%20nothing%20perishes.&author=Ovid
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=He%20who%20lives%20in%20harmony%20with%20himself%20lives%20in%20harmony%20with%20the%20universe.&author=Marcus%20Aurelius
 
 </div>
 
