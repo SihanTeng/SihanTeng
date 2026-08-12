@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=He%20who%20lives%20in%20harmony%20with%20himself%20lives%20in%20harmony%20with%20the%20universe.&author=Marcus%20Aurelius
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20possession%20of%20knowledge%20does%20not%20kill%20the%20sense%20of%20wonder%20and%20mystery.%20There%20is%20always%20more%20mystery.&author=Ana%C3%A9%C2%AFs%20Nin
 
 </div>
 
