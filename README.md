@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20possession%20of%20knowledge%20does%20not%20kill%20the%20sense%20of%20wonder%20and%20mystery.%20There%20is%20always%20more%20mystery.&author=Ana%C3%A9%C2%AFs%20Nin
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20most%20complicated%20achievements%20of%20thought%20are%20possible%20without%20the%20assistance%20of%20consciousness.&author=Sigmund%20Freud
 
 </div>
 
