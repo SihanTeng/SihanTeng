@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20most%20complicated%20achievements%20of%20thought%20are%20possible%20without%20the%20assistance%20of%20consciousness.&author=Sigmund%20Freud
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Dost%20thou%20love%20life%3F%20Then%20do%20not%20squander%20time%2C%20for%20that%20is%20the%20stuff%20life%20is%20made%20of.&author=Benjamin%20Franklin
 
 </div>
 
