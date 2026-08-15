@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Dost%20thou%20love%20life%3F%20Then%20do%20not%20squander%20time%2C%20for%20that%20is%20the%20stuff%20life%20is%20made%20of.&author=Benjamin%20Franklin
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Strong%20people%20make%20as%20many%20mistakes%20as%20weak%20people.%20Difference%20is%20that%20strong%20people%20admit%20their%20mistakes%2C%20laugh%20at%20them%2C%20learn%20from%20them.%20That%20is%20how&author=Richard%20Needham
 
 </div>
 
