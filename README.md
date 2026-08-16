@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Strong%20people%20make%20as%20many%20mistakes%20as%20weak%20people.%20Difference%20is%20that%20strong%20people%20admit%20their%20mistakes%2C%20laugh%20at%20them%2C%20learn%20from%20them.%20That%20is%20how&author=Richard%20Needham
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=As%20a%20cure%20for%20worrying%2C%20work%20is%20better%20than%20whisky.&author=Thomas%20Edison
 
 </div>
 
