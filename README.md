@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=As%20a%20cure%20for%20worrying%2C%20work%20is%20better%20than%20whisky.&author=Thomas%20Edison
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20saddest%20aspect%20of%20life%20right%20now%20is%20that%20science%20gathers%20knowledge%20faster%20than%20society%20gathers%20wisdom.&author=Isaac%20Asimov
 
 </div>
 
