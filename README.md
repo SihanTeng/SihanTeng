@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20saddest%20aspect%20of%20life%20right%20now%20is%20that%20science%20gathers%20knowledge%20faster%20than%20society%20gathers%20wisdom.&author=Isaac%20Asimov
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20more%20you%20know%20yourself%2C%20the%20more%20you%20forgive%20yourself.&author=Confucius
 
 </div>
 
