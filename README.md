@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20more%20you%20know%20yourself%2C%20the%20more%20you%20forgive%20yourself.&author=Confucius
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Happiness%20is%20not%20something%20ready-made.%20It%20comes%20from%20your%20own%20actions.&author=Dalai%20Lama
 
 </div>
 
