@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Happiness%20is%20not%20something%20ready-made.%20It%20comes%20from%20your%20own%20actions.&author=Dalai%20Lama
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=False%20friendship%2C%20like%20the%20ivy%2C%20decays%20and%20ruins%20the%20walls%20it%20embraces%3B%20but%20true%20friendship%20gives%20new%20life%20and%20animation%20to%20the%20object%20it%20supports.&author=Richard%20Burton
 
 </div>
 
