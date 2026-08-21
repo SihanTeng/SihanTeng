@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=False%20friendship%2C%20like%20the%20ivy%2C%20decays%20and%20ruins%20the%20walls%20it%20embraces%3B%20but%20true%20friendship%20gives%20new%20life%20and%20animation%20to%20the%20object%20it%20supports.&author=Richard%20Burton
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Trust%20is%20the%20lubrication%20that%20makes%20it%20possible%20for%20organizations%20to%20work.&author=Warren%20Bennis
 
 </div>
 
