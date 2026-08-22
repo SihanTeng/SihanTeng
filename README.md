@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Trust%20is%20the%20lubrication%20that%20makes%20it%20possible%20for%20organizations%20to%20work.&author=Warren%20Bennis
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Reason%20and%20free%20inquiry%20are%20the%20only%20effectual%20agents%20against%20error.&author=Thomas%20Jefferson
 
 </div>
 
