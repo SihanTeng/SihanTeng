@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Reason%20and%20free%20inquiry%20are%20the%20only%20effectual%20agents%20against%20error.&author=Thomas%20Jefferson
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20greatest%20healing%20therapy%20is%20friendship%20and%20love.&author=Hubert%20Humphrey
 
 </div>
 
