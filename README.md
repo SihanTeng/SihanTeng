@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20greatest%20healing%20therapy%20is%20friendship%20and%20love.&author=Hubert%20Humphrey
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Nothing%20strengthens%20authority%20so%20much%20as%20silence.&author=Leonardo%20da%20Vinci
 
 </div>
 
