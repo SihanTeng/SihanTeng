@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Nothing%20strengthens%20authority%20so%20much%20as%20silence.&author=Leonardo%20da%20Vinci
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20are%20many%20ways%20of%20going%20forward%2C%20but%20only%20one%20way%20of%20standing%20still.&author=Franklin%20D.%20Roosevelt
 
 </div>
 
