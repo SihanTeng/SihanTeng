@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Friends%20are%20those%20rare%20people%20who%20ask%20how%20we%20are%20and%20then%20wait%20to%20hear%20the%20answer.&author=Ed%20Cunningham
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=One%20may%20say%20the%20eternal%20mystery%20of%20the%20world%20is%20its%20comprehensibility.&author=Albert%20Einstein
 
 </div>
 
