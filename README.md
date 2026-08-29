@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20one%20tugs%20at%20a%20single%20thing%20in%20nature%2C%20he%20finds%20it%20attached%20to%20the%20rest%20of%20the%20world.&author=John%20Muir
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=They%20can%20conquer%20who%20believe%20they%20can.&author=Virgil
 
 </div>
 
