@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=They%20can%20conquer%20who%20believe%20they%20can.&author=Virgil
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20accept%20the%20expectations%20of%20others%2C%20especially%20negative%20ones%2C%20then%20you%20never%20will%20change%20the%20outcome.&author=Michael%20Jordan
 
 </div>
 
