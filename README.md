@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20accept%20the%20expectations%20of%20others%2C%20especially%20negative%20ones%2C%20then%20you%20never%20will%20change%20the%20outcome.&author=Michael%20Jordan
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20meaning%20I%20picked%2C%20the%20one%20that%20changed%20my%20life%3A%20Overcome%20fear%2C%20behold%20wonder.&author=Richard%20Bach
 
 </div>
 
