@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20meaning%20I%20picked%2C%20the%20one%20that%20changed%20my%20life%3A%20Overcome%20fear%2C%20behold%20wonder.&author=Richard%20Bach
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20essence%20of%20true%20friendship%20is%20to%20make%20allowance%20for%20another%27s%20little%20lapses.&author=Ovid
 
 </div>
 
