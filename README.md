@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20essence%20of%20true%20friendship%20is%20to%20make%20allowance%20for%20another%27s%20little%20lapses.&author=Ovid
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%27m%20tired%20of%20hearing%20about%20money%2C%20money%2C%20money%2C%20money%2C%20money.%20I%20just%20want%20to%20play%20the%20game%2C%20drink%20Pepsi%2C%20and%20wear%20Reebok.&author=Shaquille%20O%27Neal
 
 </div>
 
