@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20you%20meet%20someone%20better%20than%20yourself%2C%20turn%20your%20thoughts%20to%20becoming%20his%20equal.%20When%20you%20meet%20someone%20not%20as%20good%20as%20you%20are%2C%20look%20within%20and%20ex&author=Confucius
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20unwise%20to%20be%20too%20sure%20of%20one%27s%20own%20wisdom.%20It%20is%20healthy%20to%20be%20reminded%20that%20the%20strongest%20might%20weaken%20and%20the%20wisest%20might%20err.&author=Mahatma%20Gandhi
 
 </div>
 
