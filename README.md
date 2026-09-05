@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20unwise%20to%20be%20too%20sure%20of%20one%27s%20own%20wisdom.%20It%20is%20healthy%20to%20be%20reminded%20that%20the%20strongest%20might%20weaken%20and%20the%20wisest%20might%20err.&author=Mahatma%20Gandhi
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Love%20is%20blind%3B%20friendship%20closes%20its%20eyes.&author=Friedrich%20Nietzsche
 
 </div>
 
