@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Love%20is%20blind%3B%20friendship%20closes%20its%20eyes.&author=Friedrich%20Nietzsche
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20the%20quality%20of%20our%20work%20which%20will%20please%20God%2C%20not%20the%20quantity.&author=Mahatma%20Gandhi
 
 </div>
 
