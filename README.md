@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20the%20quality%20of%20our%20work%20which%20will%20please%20God%2C%20not%20the%20quantity.&author=Mahatma%20Gandhi
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Fortune%20befriends%20the%20bold.&author=John%20Dryden
 
 </div>
 
