@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Fortune%20befriends%20the%20bold.&author=John%20Dryden
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20Superior%20Man%20is%20aware%20of%20Righteousness%2C%20the%20inferior%20man%20is%20aware%20of%20advantage.&author=Confucius
 
 </div>
 
