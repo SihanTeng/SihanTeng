@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20Superior%20Man%20is%20aware%20of%20Righteousness%2C%20the%20inferior%20man%20is%20aware%20of%20advantage.&author=Confucius
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=People%20may%20doubt%20what%20you%20say%2C%20but%20they%20will%20believe%20what%20you%20do.&author=Lewis%20Cass
 
 </div>
 
