@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=People%20may%20doubt%20what%20you%20say%2C%20but%20they%20will%20believe%20what%20you%20do.&author=Lewis%20Cass
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20smother%20each%20other.%20No%20one%20can%20grow%20in%20the%20shade.&author=Leo%20Buscaglia
 
 </div>
 
