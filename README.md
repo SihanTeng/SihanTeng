@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20smother%20each%20other.%20No%20one%20can%20grow%20in%20the%20shade.&author=Leo%20Buscaglia
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=People%20are%20so%20constituted%20that%20everybody%20would%20rather%20undertake%20what%20they%20see%20others%20do%2C%20whether%20they%20have%20an%20aptitude%20for%20it%20or%20not.&author=Johann%20Wolfgang%20von%20Goethe
 
 </div>
 
