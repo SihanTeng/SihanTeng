@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20acts%20are%20made%20up%20of%20small%20deeds.&author=Laozi
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=For%20everything%20that%20lives%20is%20holy%2C%20life%20delights%20in%20life.&author=William%20Blake
 
 </div>
 
