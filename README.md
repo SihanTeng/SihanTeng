@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=For%20everything%20that%20lives%20is%20holy%2C%20life%20delights%20in%20life.&author=William%20Blake
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=%27As%20I%20am%2C%20so%20are%20they%3B%20as%20they%20are%2C%20so%20am%20I.%27%20Comparing%20others%20with%20oneself%2C%20do%20not%20kill%20nor%20cause%20others%20to%20kill.&author=The%20Buddha
 
 </div>
 
