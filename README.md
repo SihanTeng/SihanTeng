@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=%27As%20I%20am%2C%20so%20are%20they%3B%20as%20they%20are%2C%20so%20am%20I.%27%20Comparing%20others%20with%20oneself%2C%20do%20not%20kill%20nor%20cause%20others%20to%20kill.&author=The%20Buddha
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Silence%20at%20the%20proper%20season%20is%20wisdom%2C%20and%20better%20than%20any%20speech.&author=Plutarch
 
 </div>
 
