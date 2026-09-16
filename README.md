@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Silence%20at%20the%20proper%20season%20is%20wisdom%2C%20and%20better%20than%20any%20speech.&author=Plutarch
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20movement-we%20breathe%2C%20we%20eat%2C%20we%20walk%2C%20we%20move%21&author=John%20Pierrakos
 
 </div>
 
