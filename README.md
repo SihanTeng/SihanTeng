@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20movement-we%20breathe%2C%20we%20eat%2C%20we%20walk%2C%20we%20move%21&author=John%20Pierrakos
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=His%20lack%20of%20education%20is%20more%20than%20compensated%20for%20by%20his%20keenly%20developed%20moral%20bankruptcy.&author=Woody%20Allen
 
 </div>
 
