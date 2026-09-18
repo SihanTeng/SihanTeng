@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=His%20lack%20of%20education%20is%20more%20than%20compensated%20for%20by%20his%20keenly%20developed%20moral%20bankruptcy.&author=Woody%20Allen
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20language%20of%20friendship%20is%20not%20words%20but%20meanings.&author=Henry%20David%20Thoreau
 
 </div>
 
