@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20language%20of%20friendship%20is%20not%20words%20but%20meanings.&author=Henry%20David%20Thoreau
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20thing%20to%20do%20with%20good%20advice%20is%20to%20pass%20it%20on.%20It%20is%20never%20of%20any%20use%20to%20oneself.&author=Oscar%20Wilde
 
 </div>
 
