@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20thing%20to%20do%20with%20good%20advice%20is%20to%20pass%20it%20on.%20It%20is%20never%20of%20any%20use%20to%20oneself.&author=Oscar%20Wilde
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Love%20and%20compassion%20open%20our%20own%20inner%20life%2C%20reducing%20stress%2C%20distrust%20and%20loneliness.&author=Dalai%20Lama
 
 </div>
 
