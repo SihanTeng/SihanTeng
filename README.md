@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Love%20and%20compassion%20open%20our%20own%20inner%20life%2C%20reducing%20stress%2C%20distrust%20and%20loneliness.&author=Dalai%20Lama
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20free%20man%20is%20he%20who%20does%20not%20fear%20to%20go%20to%20the%20end%20of%20his%20thought.&author=L%C3%A9on%20Blum
 
 </div>
 
