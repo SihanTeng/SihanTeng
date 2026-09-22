@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20free%20man%20is%20he%20who%20does%20not%20fear%20to%20go%20to%20the%20end%20of%20his%20thought.&author=L%C3%A9on%20Blum
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=To%20keep%20your%20secret%20is%20wisdom%3B%20but%20to%20expect%20others%20to%20keep%20it%20is%20folly.&author=Samuel%20Johnson
 
 </div>
 
