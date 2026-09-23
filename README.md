@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=To%20keep%20your%20secret%20is%20wisdom%3B%20but%20to%20expect%20others%20to%20keep%20it%20is%20folly.&author=Samuel%20Johnson
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20are%20going%20to%20achieve%20excellence%20in%20big%20things%2C%20you%20develop%20the%20habit%20in%20little%20matters.%20Excellence%20is%20not%20an%20exception%3B%20it%20is%20a%20prevailing%20atti&author=Colin%20Powell
 
 </div>
 
