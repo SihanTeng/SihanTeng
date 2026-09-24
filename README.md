@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20are%20going%20to%20achieve%20excellence%20in%20big%20things%2C%20you%20develop%20the%20habit%20in%20little%20matters.%20Excellence%20is%20not%20an%20exception%3B%20it%20is%20a%20prevailing%20atti&author=Colin%20Powell
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=For%20every%20failure%2C%20there%27s%20an%20alternative%20course%20of%20action.%20You%20just%20have%20to%20find%20it.%20When%20you%20come%20to%20a%20roadblock%2C%20take%20a%20detour.&author=Mary%20Kay%20Ash
 
 </div>
 
