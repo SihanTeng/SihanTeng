@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=For%20every%20failure%2C%20there%27s%20an%20alternative%20course%20of%20action.%20You%20just%20have%20to%20find%20it.%20When%20you%20come%20to%20a%20roadblock%2C%20take%20a%20detour.&author=Mary%20Kay%20Ash
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20are%20Divine%20enough%20to%20ask%20and%20we%20are%20important%20enough%20to%20receive.&author=Wayne%20Dyer
 
 </div>
 
