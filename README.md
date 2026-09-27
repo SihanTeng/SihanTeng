@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=No%20one%20has%20ever%20become%20poor%20by%20giving.&author=Anne%20Frank
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Hope%20arouses%2C%20as%20nothing%20else%20can%20arouse%2C%20a%20passion%20for%20the%20possible.&author=William%20Sloane%20Coffin
 
 </div>
 
