@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Hope%20arouses%2C%20as%20nothing%20else%20can%20arouse%2C%20a%20passion%20for%20the%20possible.&author=William%20Sloane%20Coffin
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=He%20who%20knows%20others%20is%20wise.%20He%20who%20knows%20himself%20is%20enlightened.&author=Laozi
 
 </div>
 
