@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=He%20who%20knows%20others%20is%20wise.%20He%20who%20knows%20himself%20is%20enlightened.&author=Laozi
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20on%20our%20failures%20that%20we%20base%20a%20new%20and%20different%20and%20better%20success.&author=Havelock%20Ellis
 
 </div>
 
