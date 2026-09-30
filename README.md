@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20on%20our%20failures%20that%20we%20base%20a%20new%20and%20different%20and%20better%20success.&author=Havelock%20Ellis
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Should%20a%20seeker%20not%20find%20a%20companion%20who%20is%20better%20or%20equal%2C%20let%20them%20resolutely%20pursue%20a%20solitary%20course.&author=The%20Buddha
 
 </div>
 
