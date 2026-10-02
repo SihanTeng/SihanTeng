@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Should%20a%20seeker%20not%20find%20a%20companion%20who%20is%20better%20or%20equal%2C%20let%20them%20resolutely%20pursue%20a%20solitary%20course.&author=The%20Buddha
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Knowledge%20is%20knowing%20that%20a%20tomato%20is%20a%20fruit.%20Wisdom%20is%20knowing%20not%20to%20put%20it%20in%20a%20fruit%20salad.&author=Brian%20O%27Driscoll
 
 </div>
 
