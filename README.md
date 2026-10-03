@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Knowledge%20is%20knowing%20that%20a%20tomato%20is%20a%20fruit.%20Wisdom%20is%20knowing%20not%20to%20put%20it%20in%20a%20fruit%20salad.&author=Brian%20O%27Driscoll
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Rare%20as%20is%20true%20love%2C%20true%20friendship%20is%20rarer.&author=Jean%20de%20La%20Fontaine
 
 </div>
 
