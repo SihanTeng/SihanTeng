@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Rare%20as%20is%20true%20love%2C%20true%20friendship%20is%20rarer.&author=Jean%20de%20La%20Fontaine
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20tree%20is%20known%20by%20its%20fruit%3B%20a%20man%20by%20his%20deeds.%20A%20good%20deed%20is%20never%20lost%3B%20he%20who%20sows%20courtesy%20reaps%20friendship%2C%20and%20he%20who%20plants%20kindness%20gathers&author=Basil%20of%20Caesarea
 
 </div>
 
