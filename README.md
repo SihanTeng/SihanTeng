@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20tree%20is%20known%20by%20its%20fruit%3B%20a%20man%20by%20his%20deeds.%20A%20good%20deed%20is%20never%20lost%3B%20he%20who%20sows%20courtesy%20reaps%20friendship%2C%20and%20he%20who%20plants%20kindness%20gathers&author=Basil%20of%20Caesarea
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20say%20to%20yourself%20what%20you%20would%20be%3B%20and%20then%20do%20what%20you%20have%20to%20do.&author=Epictetus
 
 </div>
 
