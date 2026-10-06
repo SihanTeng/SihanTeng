@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20say%20to%20yourself%20what%20you%20would%20be%3B%20and%20then%20do%20what%20you%20have%20to%20do.&author=Epictetus
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20greatest%20good%20you%20can%20do%20for%20another%20is%20not%20just%20share%20your%20riches%20but%20reveal%20to%20them%20their%20own.&author=Benjamin%20Disraeli
 
 </div>
 
