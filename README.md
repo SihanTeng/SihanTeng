@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20greatest%20good%20you%20can%20do%20for%20another%20is%20not%20just%20share%20your%20riches%20but%20reveal%20to%20them%20their%20own.&author=Benjamin%20Disraeli
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20one%20advances%20confidently%20in%20the%20direction%20of%20his%20dream%2C%20and%20endeavors%20to%20live%20the%20life%20which%20he%20had%20imagines%2C%20he%20will%20meet%20with%20a%20success%20unexpecte&author=Henry%20David%20Thoreau
 
 </div>
 
