@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20one%20advances%20confidently%20in%20the%20direction%20of%20his%20dream%2C%20and%20endeavors%20to%20live%20the%20life%20which%20he%20had%20imagines%2C%20he%20will%20meet%20with%20a%20success%20unexpecte&author=Henry%20David%20Thoreau
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Science%20investigates%3B%20religion%20interprets.%20Science%20gives%20man%20knowledge%20which%20is%20power%3B%20religion%20gives%20man%20wisdom%20which%20is%20control.&author=Martin%20Luther%20King%20Jr.
 
 </div>
 
