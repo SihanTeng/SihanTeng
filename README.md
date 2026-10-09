@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Science%20investigates%3B%20religion%20interprets.%20Science%20gives%20man%20knowledge%20which%20is%20power%3B%20religion%20gives%20man%20wisdom%20which%20is%20control.&author=Martin%20Luther%20King%20Jr.
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20don%27t%20want%20to%20achieve%20immortality%20through%20my%20work...%20I%20want%20to%20achieve%20it%20through%20not%20dying.&author=Woody%20Allen
 
 </div>
 
