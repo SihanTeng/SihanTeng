@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20don%27t%20want%20to%20achieve%20immortality%20through%20my%20work...%20I%20want%20to%20achieve%20it%20through%20not%20dying.&author=Woody%20Allen
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Only%20I%20can%20change%20my%20life.%20No%20one%20can%20do%20it%20for%20me.&author=Carol%20Burnett
 
 </div>
 
