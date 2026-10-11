@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Only%20I%20can%20change%20my%20life.%20No%20one%20can%20do%20it%20for%20me.&author=Carol%20Burnett
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Wrinkles%20should%20merely%20indicate%20where%20smiles%20have%20been.&author=Mark%20Twain
 
 </div>
 
