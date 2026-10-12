@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Wrinkles%20should%20merely%20indicate%20where%20smiles%20have%20been.&author=Mark%20Twain
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Results%21%20Why%2C%20man%2C%20I%20have%20gotten%20a%20lot%20of%20results.%20I%20know%20several%20thousand%20things%20that%20won%27t%20work.&author=Thomas%20Edison
 
 </div>
 
