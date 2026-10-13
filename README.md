@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Results%21%20Why%2C%20man%2C%20I%20have%20gotten%20a%20lot%20of%20results.%20I%20know%20several%20thousand%20things%20that%20won%27t%20work.&author=Thomas%20Edison
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=By%20letting%20it%20go%20it%20all%20gets%20done.%20The%20world%20is%20won%20by%20those%20who%20let%20it%20go.%20But%20when%20you%20try%20and%20try.%20The%20world%20is%20beyond%20the%20winning.&author=Laozi
 
 </div>
 
