@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=By%20letting%20it%20go%20it%20all%20gets%20done.%20The%20world%20is%20won%20by%20those%20who%20let%20it%20go.%20But%20when%20you%20try%20and%20try.%20The%20world%20is%20beyond%20the%20winning.&author=Laozi
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20most%20formidable%20weapon%20against%20errors%20of%20every%20kind%20is%20reason.&author=Thomas%20Paine
 
 </div>
 
