@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20most%20formidable%20weapon%20against%20errors%20of%20every%20kind%20is%20reason.&author=Thomas%20Paine
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20never%20worry%20about%20action%2C%20but%20only%20inaction.&author=Winston%20Churchill
 
 </div>
 
