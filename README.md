@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20difficult%20to%20achieve%20a%20spirit%20of%20genuine%20cooperation%20as%20long%20as%20people%20remain%20indifferent%20to%20the%20feelings%20and%20happiness%20of%20others.&author=Dalai%20Lama
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Good%2C%20better%2C%20best.%20Never%20let%20it%20rest.%20%C3%A2%E2%82%AC%CB%9CTil%20your%20good%20is%20better%20and%20your%20better%20is%20best.&author=Jerome
 
 </div>
 
