@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Good%2C%20better%2C%20best.%20Never%20let%20it%20rest.%20%C3%A2%E2%82%AC%CB%9CTil%20your%20good%20is%20better%20and%20your%20better%20is%20best.&author=Jerome
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20journey%20of%20a%20thousand%20miles%20begins%20with%20one%20step.&author=Laozi
 
 </div>
 
