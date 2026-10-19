@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20journey%20of%20a%20thousand%20miles%20begins%20with%20one%20step.&author=Laozi
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Let%20us%20sacrifice%20our%20today%20so%20that%20our%20children%20can%20have%20a%20better%20tomorrow.&author=A.%20P.%20J.%20Abdul%20Kalam
 
 </div>
 
