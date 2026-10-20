@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Let%20us%20sacrifice%20our%20today%20so%20that%20our%20children%20can%20have%20a%20better%20tomorrow.&author=A.%20P.%20J.%20Abdul%20Kalam
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=He%20who%20lives%20in%20harmony%20with%20himself%20lives%20in%20harmony%20with%20the%20universe.&author=Marcus%20Aurelius
 
 </div>
 
