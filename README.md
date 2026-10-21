@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=He%20who%20lives%20in%20harmony%20with%20himself%20lives%20in%20harmony%20with%20the%20universe.&author=Marcus%20Aurelius
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Most%20great%20people%20have%20attained%20their%20greatest%20success%20just%20one%20step%20beyond%20their%20greatest%20failure.&author=Napoleon%20Hill
 
 </div>
 
