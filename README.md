@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Most%20great%20people%20have%20attained%20their%20greatest%20success%20just%20one%20step%20beyond%20their%20greatest%20failure.&author=Napoleon%20Hill
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20so%20constructed%20that%20an%20event%20does%20not%2C%20cannot%2C%20will%20not%2C%20match%20the%20expectation.&author=Charlotte%20Bront%C3%AB
 
 </div>
 
