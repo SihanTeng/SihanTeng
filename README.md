@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20so%20constructed%20that%20an%20event%20does%20not%2C%20cannot%2C%20will%20not%2C%20match%20the%20expectation.&author=Charlotte%20Bront%C3%AB
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Let%20none%20find%20fault%20with%20others%3B%20let%20none%20see%20the%20omissions%20and%20commissions%20of%20others.%20But%20let%20one%20see%20one%27s%20own%20acts%2C%20done%20and%20undone.&author=The%20Buddha
 
 </div>
 
