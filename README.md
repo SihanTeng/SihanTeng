@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Let%20none%20find%20fault%20with%20others%3B%20let%20none%20see%20the%20omissions%20and%20commissions%20of%20others.%20But%20let%20one%20see%20one%27s%20own%20acts%2C%20done%20and%20undone.&author=The%20Buddha
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Much%20wisdom%20often%20goes%20with%20fewer%20words.&author=Sophocles
 
 </div>
 
