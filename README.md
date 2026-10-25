@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Much%20wisdom%20often%20goes%20with%20fewer%20words.&author=Sophocles
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Every%20man%20is%20a%20damn%20fool%20for%20at%20least%20five%20minutes%20every%20day%3B%20wisdom%20consists%20in%20not%20exceeding%20the%20limit.&author=Elbert%20Hubbard
 
 </div>
 
