@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%27s%20power%20in%20looking%20silly%20and%20not%20caring%20that%20you%20do.&author=Amy%20Poehler
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20friend%20is%20one%20who%20knows%20you%20and%20loves%20you%20just%20the%20same.&author=Elbert%20Hubbard
 
 </div>
 
