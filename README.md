@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20friend%20is%20one%20who%20knows%20you%20and%20loves%20you%20just%20the%20same.&author=Elbert%20Hubbard
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Respect%20should%20be%20earned%20by%20actions%2C%20and%20not%20acquired%20by%20years.&author=Frank%20Lloyd%20Wright
 
 </div>
 
