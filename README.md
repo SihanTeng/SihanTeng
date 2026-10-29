@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Respect%20should%20be%20earned%20by%20actions%2C%20and%20not%20acquired%20by%20years.&author=Frank%20Lloyd%20Wright
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Rejoicing%20in%20our%20joy%2C%20not%20suffering%20over%20our%20suffering%2C%20makes%20someone%20a%20friend.&author=Friedrich%20Nietzsche
 
 </div>
 
