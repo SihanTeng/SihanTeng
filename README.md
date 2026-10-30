@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Rejoicing%20in%20our%20joy%2C%20not%20suffering%20over%20our%20suffering%2C%20makes%20someone%20a%20friend.&author=Friedrich%20Nietzsche
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=By%20letting%20it%20go%20it%20all%20gets%20done.%20The%20world%20is%20won%20by%20those%20who%20let%20it%20go.%20But%20when%20you%20try%20and%20try.%20The%20world%20is%20beyond%20the%20winning.&author=Laozi
 
 </div>
 
