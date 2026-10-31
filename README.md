@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=By%20letting%20it%20go%20it%20all%20gets%20done.%20The%20world%20is%20won%20by%20those%20who%20let%20it%20go.%20But%20when%20you%20try%20and%20try.%20The%20world%20is%20beyond%20the%20winning.&author=Laozi
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20heart%20has%20eyes%20which%20the%20brain%20knows%20nothing%20of.&author=Charles%20Henry%20Parkhurst
 
 </div>
 
