@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20heart%20has%20eyes%20which%20the%20brain%20knows%20nothing%20of.&author=Charles%20Henry%20Parkhurst
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20you%20judge%20another%2C%20you%20do%20not%20define%20them%2C%20you%20define%20yourself.&author=Wayne%20Dyer
 
 </div>
 
