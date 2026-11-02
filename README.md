@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20you%20judge%20another%2C%20you%20do%20not%20define%20them%2C%20you%20define%20yourself.&author=Wayne%20Dyer
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Pitching%20is%20the%20art%20of%20instilling%20fear.&author=Sandy%20Koufax
 
 </div>
 
