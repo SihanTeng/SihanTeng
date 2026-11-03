@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Pitching%20is%20the%20art%20of%20instilling%20fear.&author=Sandy%20Koufax
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Ignorance%20and%20bungling%20with%20love%20are%20better%20than%20wisdom%20and%20skill%20without.&author=Henry%20David%20Thoreau
 
 </div>
 
