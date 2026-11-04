@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Ignorance%20and%20bungling%20with%20love%20are%20better%20than%20wisdom%20and%20skill%20without.&author=Henry%20David%20Thoreau
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Friends...%20they%20cherish%20one%20another%27s%20hopes.%20They%20are%20kind%20to%20one%20another%27s%20dreams.&author=Henry%20David%20Thoreau
 
 </div>
 
