@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Friends...%20they%20cherish%20one%20another%27s%20hopes.%20They%20are%20kind%20to%20one%20another%27s%20dreams.&author=Henry%20David%20Thoreau
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20are%20people%20who%20have%20money%20and%20people%20who%20are%20rich.&author=Coco%20Chanel
 
 </div>
 
