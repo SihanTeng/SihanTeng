@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20are%20people%20who%20have%20money%20and%20people%20who%20are%20rich.&author=Coco%20Chanel
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Do%20not%20wait%3B%20the%20time%20will%20never%20be%20%27just%20right.%27%20Start%20where%20you%20stand%2C%20and%20work%20with%20whatever%20tools%20you%20may%20have%20at%20your%20command%2C%20and%20better%20tools%20w&author=George%20Herbert
 
 </div>
 
