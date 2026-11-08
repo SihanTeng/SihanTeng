@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Aerodynamically%20the%20bumblebee%20shouldn%27t%20be%20able%20to%20fly%2C%20but%20the%20bumblebee%20doesn%27t%20know%20that%2C%20so%20it%20goes%20on%20flying%20anyway.&author=Mary%20Kay%20Ash
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Experience%20is%20simply%20the%20name%20we%20give%20our%20mistakes.&author=Oscar%20Wilde
 
 </div>
 
