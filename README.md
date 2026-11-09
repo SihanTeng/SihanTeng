@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Experience%20is%20simply%20the%20name%20we%20give%20our%20mistakes.&author=Oscar%20Wilde
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20are%20two%20ways%20to%20slide%20easily%20through%20life%3A%20to%20believe%20everything%20or%20to%20doubt%20everything%3B%20both%20ways%20save%20us%20from%20thinking.&author=Alfred%20Korzybski
 
 </div>
 
