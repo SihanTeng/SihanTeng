@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20are%20two%20ways%20to%20slide%20easily%20through%20life%3A%20to%20believe%20everything%20or%20to%20doubt%20everything%3B%20both%20ways%20save%20us%20from%20thinking.&author=Alfred%20Korzybski
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20important%20thing%20is%20this%3A%20to%20be%20able%20at%20any%20moment%20to%20sacrifice%20what%20we%20are%20for%20what%20we%20could%20become.&author=Charles%20Du%20Bos
 
 </div>
 
