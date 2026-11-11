@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20important%20thing%20is%20this%3A%20to%20be%20able%20at%20any%20moment%20to%20sacrifice%20what%20we%20are%20for%20what%20we%20could%20become.&author=Charles%20Du%20Bos
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20seemed%20the%20world%20was%20divided%20into%20good%20and%20bad%20people.%20The%20good%20ones%20slept%20better...%20while%20the%20bad%20ones%20seemed%20to%20enjoy%20the%20waking%20hours%20much%20more.&author=Woody%20Allen
 
 </div>
 
