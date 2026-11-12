@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20seemed%20the%20world%20was%20divided%20into%20good%20and%20bad%20people.%20The%20good%20ones%20slept%20better...%20while%20the%20bad%20ones%20seemed%20to%20enjoy%20the%20waking%20hours%20much%20more.&author=Woody%20Allen
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Just%20as%20a%20solid%20rock%20is%20not%20shaken%20by%20the%20storm%2C%20even%20so%20the%20wise%20are%20not%20affected%20by%20praise%20or%20blame.&author=The%20Buddha
 
 </div>
 
