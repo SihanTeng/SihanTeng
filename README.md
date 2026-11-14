@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Happiness%20cannot%20be%20travelled%20to%2C%20owned%2C%20earned%2C%20worn%20or%20consumed.%20Happiness%20is%20the%20spiritual%20experience%20of%20living%20every%20minute%20with%20love%2C%20grace%20and%20g&author=Denis%20Waitley
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20the%20middle%20of%20every%20difficulty%20lies%20opportunity.&author=Albert%20Einstein
 
 </div>
 
