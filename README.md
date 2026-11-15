@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20the%20middle%20of%20every%20difficulty%20lies%20opportunity.&author=Albert%20Einstein
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=This%20world%2C%20after%20all%20our%20science%20and%20sciences%2C%20is%20still%20a%20miracle%3B%20wonderful%2C%20inscrutable%2C%20magical%20and%20more%2C%20to%20whosoever%20will%20think%20of%20it.&author=Thomas%20Carlyle
 
 </div>
 
