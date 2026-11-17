@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20better%20to%20understand%20a%20little%20than%20to%20misunderstand%20a%20lot.&author=Anatole%20France
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Purity%20and%20impurity%20depend%20on%20oneself%3B%20no%20one%20can%20purify%20another.&author=The%20Buddha
 
 </div>
 
