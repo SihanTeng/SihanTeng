@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Purity%20and%20impurity%20depend%20on%20oneself%3B%20no%20one%20can%20purify%20another.&author=The%20Buddha
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=To%20acquire%20knowledge%2C%20one%20must%20study%3B%20but%20to%20acquire%20wisdom%2C%20one%20must%20observe.&author=Marilyn%20vos%20Savant
 
 </div>
 
