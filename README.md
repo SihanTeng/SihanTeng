@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=To%20acquire%20knowledge%2C%20one%20must%20study%3B%20but%20to%20acquire%20wisdom%2C%20one%20must%20observe.&author=Marilyn%20vos%20Savant
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20should%20not%20judge%20people%20by%20their%20peak%20of%20excellence%3B%20but%20by%20the%20distance%20they%20have%20traveled%20from%20the%20point%20where%20they%20started.&author=Henry%20Ward%20Beecher
 
 </div>
 
