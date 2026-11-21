@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=No%20garden%20is%20without%20its%20weeds.&author=Thomas%20Fuller
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=People%20don%27t%20notice%20whether%20it%27s%20winter%20or%20summer%20when%20they%27re%20happy.&author=Anton%20Chekhov
 
 </div>
 
