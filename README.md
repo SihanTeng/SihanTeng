@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=People%20don%27t%20notice%20whether%20it%27s%20winter%20or%20summer%20when%20they%27re%20happy.&author=Anton%20Chekhov
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20are%20no%20limitations%20to%20the%20mind%20except%20those%20we%20acknowledge.&author=Napoleon%20Hill
 
 </div>
 
