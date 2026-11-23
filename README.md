@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20are%20no%20limitations%20to%20the%20mind%20except%20those%20we%20acknowledge.&author=Napoleon%20Hill
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Success%20is%20getting%20what%20you%20want.%20Happiness%20is%20wanting%20what%20you%20get.&author=Dale%20Carnegie
 
 </div>
 
