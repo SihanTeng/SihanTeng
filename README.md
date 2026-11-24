@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Success%20is%20getting%20what%20you%20want.%20Happiness%20is%20wanting%20what%20you%20get.&author=Dale%20Carnegie
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20think%20you%20can%2C%20you%20can.%20And%20if%20you%20think%20you%20can%27t%2C%20you%27re%20right.&author=Henry%20Ford
 
 </div>
 
