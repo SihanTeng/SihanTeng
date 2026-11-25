@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20think%20you%20can%2C%20you%20can.%20And%20if%20you%20think%20you%20can%27t%2C%20you%27re%20right.&author=Henry%20Ford
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20focus%20on%20results%2C%20you%20will%20never%20change.%20If%20you%20focus%20on%20change%2C%20you%20will%20get%20results.&author=Jack%20Dixon
 
 </div>
 
