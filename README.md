@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20focus%20on%20results%2C%20you%20will%20never%20change.%20If%20you%20focus%20on%20change%2C%20you%20will%20get%20results.&author=Jack%20Dixon
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20wait.%20The%20time%20will%20never%20be%20just%20right.&author=Napoleon%20Hill
 
 </div>
 
