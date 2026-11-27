@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20wait.%20The%20time%20will%20never%20be%20just%20right.&author=Napoleon%20Hill
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Happiness%20resides%20not%20in%20possessions%2C%20and%20not%20in%20gold%2C%20happiness%20dwells%20in%20the%20soul.&author=Democritus
 
 </div>
 
