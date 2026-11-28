@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Happiness%20resides%20not%20in%20possessions%2C%20and%20not%20in%20gold%2C%20happiness%20dwells%20in%20the%20soul.&author=Democritus
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20personal%20life%20deeply%20lived%20always%20expands%20into%20truths%20beyond%20itself.&author=Ana%C3%A9%C2%AFs%20Nin
 
 </div>
 
